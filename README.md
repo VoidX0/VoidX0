@@ -1,6 +1,4 @@
 ## Void
-- [Github](https://github.com/VoidX0)
-
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=dracula&hide_border=true&user=VoidX0" />
